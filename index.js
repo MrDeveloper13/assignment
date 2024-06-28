@@ -54,17 +54,17 @@
 
 // fifth assignment
 
-// const fifthArray = [1, 2, 3, 4, 5];
+const fifthArray = [1, 2, 3, 4, 5];
 
-// // findin the index of third element and store in a variable
-// const second_index = fifthArray.indexOf(3);
+// findin the index of third element and store in a variable
+const second_index = fifthArray.indexOf(3);
 
-// // removing all the elements starts from that index
-//  const newArray = fifthArray.splice(0, second_index);
+// removing all the elements starts from that index
+ const newArray = fifthArray.splice(0, second_index);
 
-//  for (let i = 0; i < newArray.length; i++) {
-//     console.log(newArray[i]);
+ for (let i = 0; i < newArray.length; i++) {
+    console.log(newArray[i]);
     
-//  }
+ }
 
  
